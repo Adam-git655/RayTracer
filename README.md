@@ -3,7 +3,7 @@
 
 This is my implementation of a RayTracer in C++.
 
-Made by following the book **Ray Tracing in One Weekend** by Peter Shirley. https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Made by following the book **Ray Tracing in One Weekend** by Peter Shirley. (Great Book) https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 
 ## Steps to build
