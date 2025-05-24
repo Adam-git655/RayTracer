@@ -49,6 +49,7 @@ To Run, open a terminal in the folder where RayTracer.exe is located and run
 ### Adjustable Camera Position and FOV
 ![image](https://github.com/user-attachments/assets/da95dd48-4ecb-4772-b257-c2cf13d04b2f)
 
-### A Final Render (Low Res)
-![image](https://github.com/user-attachments/assets/d2ea2f50-5055-4865-8134-dc8704def379)
+### A Final Render
+![image](https://github.com/user-attachments/assets/455089b0-4e3b-472d-930b-cc77afaa3d95)
+
 
