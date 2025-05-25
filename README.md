@@ -15,7 +15,7 @@ Made by following the book **Ray Tracing in One Weekend** by Peter Shirley. (Gre
 ```
 mkdir build
 cd build
-cmake../
+cmake ../
 ```
 To Run, open a terminal in the folder where RayTracer.exe is located and run
 `.\RayTracer.exe > image.ppm`
